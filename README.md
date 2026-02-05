@@ -21,7 +21,7 @@ I work on robotics simulation, machine learning projects, and embedded systems �
 ## 🎓 What I've Built
 
 - Traffic sign recognition system using MATLAB and neural networks
-- ABB IRB 1200 robot simulations in RoboDK with Python scripts
+- ABB IRB 1200 robot simulation of laser cutting in RoboDK 
 - Arduino-based embedded systems and sensor integration
 - Computer vision feature extraction (HOG, LBP, SURF)
 
@@ -41,7 +41,6 @@ Internships and placements in:
 ## 📫 Reach Me
 
 📧 [santhoshanandhu086@gmail.com](mailto:santhoshanandhu086@gmail.com)  
-💼 [LinkedIn]([https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/in/anandhusanthosh-/))
 
 ---
 
