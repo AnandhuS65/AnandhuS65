@@ -4,7 +4,7 @@
 
 I'm **Anandhu Santhosh**, an aspiring robotics engineer based in Epsom, England.
 
-I'm studying **Mechatronics, Robotics, and Automation Engineering** at Kingston University (2024-2027).
+I'm studying **Mechatronics, Robotics, and Artificial Intelligence Engineering** at Kingston University (2024-2027).
 
 I work on robotics simulation, machine learning projects, and embedded systems — building intelligent systems that bridge software and hardware.
 
