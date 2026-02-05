@@ -1,16 +1,54 @@
 ## Hi there 👋
 
-<!--
-**Nandhu-5/Nandhu-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there 👋
 
-Here are some ideas to get you started:
+I'm **Anandhu Santhosh**, an aspiring robotics engineer based in Epsom, England.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm studying **Mechatronics, Robotics, and Automation Engineering** at Kingston University (2024-2027).
+
+I work on robotics simulation, machine learning projects, and embedded systems — building intelligent systems that bridge software and hardware.
+
+---
+
+## 🔧 Tools & Tech
+
+- **Python, MATLAB, C++ (Arduino)**
+- RoboDK, Google Colab, Fusion 360
+- Currently learning **Pandas** for data analysis
+
+---
+
+## 🎓 What I've Built
+
+- Traffic sign recognition system using MATLAB and neural networks
+- ABB IRB 1200 robot simulations in RoboDK with Python scripts
+- Arduino-based embedded systems and sensor integration
+- Computer vision feature extraction (HOG, LBP, SURF)
+
+---
+
+## 🎯 Looking For
+
+Internships and placements in:
+
+- Robotics & Automation
+- AI/ML Engineering  
+- Software Engineering
+- R&D
+
+---
+
+## 📫 Reach Me
+
+📧 [santhoshanandhu086@gmail.com](mailto:santhoshanandhu086@gmail.com)  
+💼 [LinkedIn]([https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/in/anandhusanthosh-/))
+
+---
+
+## 🎮 A Bit About Me
+
+- 🎮 Gaming setup enthusiast
+- 🔨 I like building things from scratch
+- 🔍 Always researching new tech
+
+---
